@@ -18,8 +18,6 @@ public class Ex003 {
         preencher(numeros, rand, qtd_total);
         buscar(numeros, escolha);
         quantificar(numeros, qtd_total);
-
-        tc.close();
         
     }
 
